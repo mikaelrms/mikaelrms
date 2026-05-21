@@ -61,4 +61,4 @@ Me chamo Mikael Coelho Ramos, sou estudante de Sistemas de Informação no Centr
 
  ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikaelrms&show_icons=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=mikaelrms&theme=midnight&hide_border=true&border_radius=2.5)
