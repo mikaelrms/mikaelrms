@@ -61,4 +61,4 @@ Me chamo Mikael Coelho Ramos, sou estudante de Sistemas de Informação no Centr
 
  ### 📊 Estatísticas
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=mikaelrms&theme=midnight&hide_border=true&border_radius=2.5)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=mikaelrms&theme=midnight&hide_border=true&border_radius=2.5&hide=issues,stars,prs,followers,streak,avg,repos)
