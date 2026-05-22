@@ -5,8 +5,7 @@ Me chamo Mikael Coelho Ramos, sou estudante de Sistemas de Informação no Centr
 
 ---
 
-### < Linguagens e Tecnologias > 
-
+### 🤖 Linguagens e Tecnologias 
  <img 
     align="left"
     alt="HTML"
