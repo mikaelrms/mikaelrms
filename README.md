@@ -54,10 +54,3 @@ Me chamo Mikael Coelho Ramos, sou estudante de Sistemas de Informação no Centr
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
  /> 
-
- <br/>
- <br/>
-
- ### 📊 Estatísticas
-
-  <img src="https://ghstats.dev/api/card?username=mikaelrms&hide_border=true&border_radius=2.5&hide=issues,stars,prs,followers,streak,avg,repos" />
